@@ -25,6 +25,7 @@ This is a boilerplate npm package that can be used in typescript projects, node.
 This is a simple vanilla JS use of the npm package. Just open the html file to test it out.
 
 PS! When published on NPM you can serve it directly from unpkg.com:
+
 Latest:
 ```html
 <script src="https://unpkg.com/@author/project_name"></script>
@@ -47,7 +48,7 @@ This is example is how to use the commondJS version of the package in node.js. R
 PS! When published on NPM you can replace "../dist/project_name.cjs" with "@author/project_name" after you have run `npm i @author/project_name`in your project.
 
 # Develop
-`npm run dev``
+`npm run dev`
 
 # Release on NPM:
 
