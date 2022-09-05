@@ -68,4 +68,4 @@ PS! When published on NPM you can replace "../dist/project_name.cjs" with "@auth
 
 Example if the package is in the same folder as the root project folder: `npm link ../PACKAGE_NAME`
 
-NB! Linters can go crazy when linking locally. (untested) Add the path in .eslintignore. Example C:/path/to/your/linked/module
+NB! Linters can go crazy when linking locally. Add the path in **.eslintignore**. Example `../PACKAGE_NAME`
